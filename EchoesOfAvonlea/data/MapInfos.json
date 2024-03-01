@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"expanded":false,"name":"Green Gables","order":1,"parentId":0,"scrollX":0,"scrollY":0,"quick":false},
+{"id":2,"expanded":false,"name":"Forest","order":2,"parentId":0,"scrollX":0,"scrollY":0,"quick":false},
+{"id":3,"expanded":true,"name":"School","order":3,"parentId":0,"scrollX":0,"scrollY":0,"quick":false},
+{"id":4,"expanded":false,"name":"Birch Path","order":5,"parentId":0,"scrollX":801,"scrollY":458.25,"quick":false},
+{"id":5,"expanded":true,"name":"Orchard Slope 1 (Diana's House)","order":4,"parentId":0,"scrollX":0,"scrollY":0,"quick":false},
+{"id":6,"expanded":false,"name":"Intro","order":6,"parentId":0,"scrollX":0,"scrollY":0,"quick":false},
+{"id":7,"expanded":false,"name":"Orchard Slope 2","order":7,"parentId":0,"scrollX":0,"scrollY":0,"quick":false},
+{"id":8,"expanded":false,"name":"Haunted Woods","order":8,"parentId":0,"scrollX":0,"scrollY":0,"quick":false}
+]
